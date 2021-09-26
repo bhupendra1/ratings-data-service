@@ -23,8 +23,8 @@ public class RatingsDataResource {
 
         List<Rating> ratings = Arrays.asList(
                 new Rating("123", 4),
-        new Rating("456", 4),
-        new Rating("789", 4));
+        new Rating("333", 4),
+        new Rating("1995", 4));
 
         UserRating userRating = new UserRating();
         userRating.setUserRating(ratings);
